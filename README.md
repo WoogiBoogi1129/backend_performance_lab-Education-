@@ -1,5 +1,3 @@
----
-
 # Backend Perf Lab — Index & Cache Experiment
 
 Flask + SQLite 기반 동아리 웹앱에서 **인덱스/캐시 적용에 따른 응답시간**을 비교하는 실험용 저장소입니다.
